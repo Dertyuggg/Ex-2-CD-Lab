@@ -32,6 +32,11 @@
 7.	Compile that file with C compiler and verify the output.
 
 # INPUT
+```
+a+b/c-d**d
+```
 # OUTPUT
+<img width="1502" height="781" alt="image" src="https://github.com/user-attachments/assets/32a6985f-6113-445a-a546-fd8bdd41d2b7" />
+
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
